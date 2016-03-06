@@ -8,6 +8,7 @@ body {
 /** HEADER **/
 #header-nav {
   background-color: #0099ff;
+  height: 62px;
   border-radius: 0;
   border: 0;
 }
@@ -50,3 +51,10 @@ body {
   font-size: 1.8em;
 }
 /* END HEADER */
+
+#menu-title{
+  background-color: #3399ff;
+}
+#menu-content{
+  background-color: #3399ff;
+}
